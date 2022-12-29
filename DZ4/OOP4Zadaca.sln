@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TVShow", "Homework4Celic\TVShow.csproj", "{95A9453B-01B7-46AC-9115-B2607755C571}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP4Zadaca", "OOP4Zadaca\OOP4Zadaca.csproj", "{3848A528-CA78-4CA9-92E0-E3CAF8F11C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A9453B-01B7-46AC-9115-B2607755C571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A9453B-01B7-46AC-9115-B2607755C571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A9453B-01B7-46AC-9115-B2607755C571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A9453B-01B7-46AC-9115-B2607755C571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3848A528-CA78-4CA9-92E0-E3CAF8F11C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3848A528-CA78-4CA9-92E0-E3CAF8F11C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3848A528-CA78-4CA9-92E0-E3CAF8F11C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3848A528-CA78-4CA9-92E0-E3CAF8F11C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43CFC67-3AC3-4278-A599-CF61B02AD888}
+	EndGlobalSection
+EndGlobal
